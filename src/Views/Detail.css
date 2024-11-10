@@ -1,0 +1,54 @@
+/* Detail.css */
+
+.detail-container {
+  max-width: 800px;
+  height: 300px; 
+  /* margin: 20px auto;  */
+  margin-left: 200px;
+  padding: 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 8px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  background-color: #fff; 
+  margin-top: 70px;
+}
+
+.detail-button {
+  margin-bottom: 10px; 
+  margin-top: -90px
+  
+}
+
+.detail-titles {
+  font-size: 14px; 
+  margin-bottom: 10px; 
+  margin-left: 450px;
+  margin-top: 50px;
+  /* margin-left: 50px; */
+}
+
+.detail-image {
+  width: 150px; 
+  max-height: 300px; 
+  object-fit: cover; 
+  border-radius: 8px; 
+  margin-top: -70px;
+}
+
+.detail-description {
+  margin-bottom: 10px; 
+  margin-left: 290px;
+  margin-top: -120px;
+}
+
+.detail-price {
+  font-size: 20px; 
+  font-weight: bold; 
+  margin-left: 300px;
+  margin-top:50px ;
+}
+.heading{
+  margin-top: -90px;
+  font-size: 20px;
+  text-align: center;
+}
